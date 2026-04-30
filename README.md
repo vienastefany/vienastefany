@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=KAREN+STEFANY;DESARROLLADORA+FULL+STACK;FRONTEND+%26+BACKEND" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=KAREN+STEFANY;DESARROLLADORA+FULL+STACK;FRONTEND+%26+BACKEND" alt="Typing SVG" />
 
   <p>
     <img src="https://img.shields.io/badge/FullStack-Developer-000000?style=for-the-badge&labelColor=000000&color=FFFFFF" />
@@ -11,6 +11,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=60&section=header&reversal=true&animation=twinkling" />
 
 </div>
+
 
 <br>
 
