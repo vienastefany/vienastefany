@@ -14,7 +14,7 @@
 
 <br>
 
-## 👋 Sobre mí
+## Sobre mí
 
 ```
 Desarrolladora Full Stack apasionada por crear soluciones tecnológicas 
@@ -25,17 +25,17 @@ aplicaciones completas y funcionales.
 
 <br>
 
-## 🎓 Formación y Experiencia
+## Formación y Experiencia
 
 **Estudiante de SENATI - Semestre 5**  
 Perfeccionando habilidades en tecnologías web modernas y desarrollo de sistemas.
 
 **Experiencia Profesional:**
-- 🏥 **Prácticas en DIRESA y UGEL** - Aplicando conocimientos en entornos de salud y educación
+-  **Prácticas en DIRESA y UGEL** - Aplicando conocimientos en entornos de salud y educación
 
 <br>
 
-## 💻 Stack Tecnológico
+##  Stack Tecnológico
 
 <div align="center">
 
@@ -62,23 +62,23 @@ Perfeccionando habilidades en tecnologías web modernas y desarrollo de sistemas
 
 <br>
 
-## 📁 Mis Proyectos
+##  Mis Proyectos
 
 ### Proyectos Personales
 | Proyecto | Descripción |
 |----------|-------------|
-| **🎨 Salón de Belleza - Web Página** | Plataforma interactiva para servicios de belleza |
-| **💰 Sistema de Préstamo** | Aplicación completa de gestión de préstamos |
+| **Salón de Belleza - Web Página** | Plataforma interactiva para servicios de belleza |
+| **Sistema de Préstamo** | Aplicación completa de gestión de préstamos |
 
 ### Proyectos en Empresa
 | Proyecto | Rol | Descripción |
 |----------|-----|-------------|
-| **🤰 ALERTA GESTANTE** | Backend | Sistema de seguimiento para gestantes |
-| **📊 Sistema Administrativo de Pagos** | Backend | Rubro de Educación |
+| **ALERTA GESTANTE** | Backend | Sistema de seguimiento para gestantes |
+| **Sistema Administrativo de Pagos** | Backend | Rubro de Educación |
 
 <br>
 
-## 🎯 Mis Fortalezas
+##  Mis Fortalezas
 
 | Área | Descripción |
 |----------|-------------|
@@ -89,7 +89,7 @@ Perfeccionando habilidades en tecnologías web modernas y desarrollo de sistemas
 
 <br>
 
-## 📫 Contacto
+##  Contacto
 
 <div align="center">
 
@@ -106,7 +106,7 @@ Perfeccionando habilidades en tecnologías web modernas y desarrollo de sistemas
 
 
 <!--
-**vienastefany/vienastefany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vienastefany/vienastefany** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
