@@ -1,15 +1,28 @@
-## Hola soy karen👋
+## Hola, soy KAREN STEFANY VIENA TENAZOA 👋
 
 ### Bienvenido a mi perfil
 ### 🌟 Sobre mí 
 
-👋 ¡Hola! Soy una apasionada del desarrollo frontend, con un enfoque en la creación de aplicaciones interactivas y estéticamente refinadas. Me encanta combinar tecnología y creatividad para diseñar experiencias atractivas y funcionales.
+👋 ¡Hola! Soy **Desarrolladora Full Stack** apasionada por crear soluciones tecnológicas integradas que combinen interfaces atractivas con backends robustos. Me especializo tanto en **frontend** como en **backend**, permitiéndome diseñar y desarrollar aplicaciones completas y funcionales.
 
-💡 Actualmente, estoy perfeccionando mis habilidades en **HTML, CSS, JavaScript** y explorando **React** para desarrollar interfaces dinámicas. También investigo herramientas de diseño como **Figma**  integrando elementos visuales únicos en mis proyectos.
+🎓 **Formación:** Estudiante de **SENATI, Semestre 5**
 
-🎨 Mi inspiración viene de la armonía en el diseño, con una inclinación por la elegancia y la sutileza. Me esfuerzo por mejorar continuamente, aplicando principios de **interactividad y usabilidad** en cada desarrollo.
+💻 **Especialización:** Full Stack Developer
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Desarrollo de APIs y sistemas administrativos
 
-🚀 Buscando oportunidades para crecer, colaboro en proyectos que me permitan profundizar en la experiencia de usuario y perfeccionar mi capacidad de resolución de problemas. Estoy abierto a retos y a aprender nuevas tecnologías que amplíen mi visión.
+🏢 **Experiencia Profesional:**
+- **Prácticas en DIRESA y UGEL** - Aplicando conocimientos en entornos de salud y educación
+
+📁 **Proyectos Personales:**
+- 🎨 **Salón de Belleza - Web Página** - Plataforma interactiva para servicios de belleza
+- 💰 **Sistema de Préstamo** - Aplicación completa de gestión de préstamos
+
+🚀 **Proyectos en Empresa:**
+- 🤰 **ALERTA GESTANTE** - Backend development - Sistema de seguimiento para gestantes
+- 📊 **Sistema Administrativo de Pagos** - Backend development - Rubro de Educación
+
+🎯 Me esfuerzo por mejorar continuamente, aplicando principios de **calidad, escalabilidad y usabilidad** en cada proyecto. Busco oportunidades para crecer profesionalmente y afrontar nuevos desafíos tecnológicos.
 
 
 <!--
